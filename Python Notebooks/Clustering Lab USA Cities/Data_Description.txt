@@ -1,0 +1,14 @@
+Attribute:Description
+Place:City, state (postal code)
+Climate & Terrain:Very hot and very cold months, seasonal temperature variation, heating- and cooling-degree days, freezing days, zero-degree days, ninety-degree days.
+Housing:Utility bills, property taxes, mortgage payments.
+Health Care & Environment:Per capita physicians, teaching hospitals, medical schools, cardiac rehabilitation centers, comprehensive cancer treatment centers, hospices, insurance/hospitalization costs index, flouridation of drinking water, air pollution.
+Crime:Violent crime rate, property crime rate.
+Transportation:Daily commute, public transportation, Interstate highways, air service, passenger rail service.
+Education:Pupil/teacher ratio in the public K-12 system, effort index in K-12, accademic options in higher education.
+The Arts:Museums, fine arts and public radio stations, public television stations, universities offering a degree or degrees in the arts, symphony orchestras, theatres, opera companies, dance companies, public libraries.
+Recreation:Good restaurants, public golf courses, certified lanes for tenpin bowling, movie theatres, zoos, aquariums, family theme parks, sanctioned automobile race tracks, pari-mutuel betting attractions, major- and minor- league professional sports teams, NCAA Division I football and basketball teams, miles of ocean or Great Lakes coastline, inland water, national forests, national parks, or national wildlife refuges, Consolidated Metropolitan Statistical Area access.
+Economics:Average household income adjusted for taxes and living costs, income growth, job growth.
+Longitude:Longitude
+Latitude:Latitude
+Population:Population
