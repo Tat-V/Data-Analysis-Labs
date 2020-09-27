@@ -1,6 +1,3 @@
-print 'Content-type: text/html'
-
-print '''<HTML>
 # **<i>Документация</i>**
 < br >
 
@@ -110,7 +107,7 @@ estimator.
 < / ul >
 
 ## Особенности работы алгоритма описаны комментариями непосредственно в коде
-</HTML>'''
+</HTML>
 
 
 from sklearn.base import BaseEstimator
